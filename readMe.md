@@ -1,4 +1,4 @@
-# **school system** \
+# **school system**  
 This project implements collections and java jdbc\
 _mysql_ is used for database and _arraylist_ to store list of objects from the database\
 The project handles students list,units list and Teachers list
